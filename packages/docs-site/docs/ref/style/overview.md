@@ -4,7 +4,7 @@ Given a Domain schema (specifying the domain of the diagram), a [Substance] file
 
 A Style program is composed of _blocks_, of which there are three types:
 
-- [Namespaces] are usaully used to specify constants such as [canvas dimensions][canvas-dimensions], colors, and other constant values within the diagram.
+- [Namespaces] are usually used to specify constants such as [canvas dimensions][canvas-dimensions], colors, and other constant values within the diagram.
 - [Selector] blocks match on [Substance] statements and specifies shapes and diagram layout.
 - [Collector] blocks are similar to [Selector], except that it aggreggates the match results into collections.
 
